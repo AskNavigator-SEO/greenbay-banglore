@@ -22,16 +22,17 @@
                      </div>
                     
 					 <p>Greenbay packers is a Bangalore based packers and movers enabling the service booking in just 10 minutes. Be it Single shifting, warehouse service or inter-state transportation, Greenbay packers have it all. </p>
-                     <p>Greenbay packers is an coincidental startup that is evolved along with our transportation services. 2021 was the year when we heard of startup funding and entrepreneur success. We are pretty much excited to be a part of this problem solving ecosystem. As a business enthusiasts, we started looking for the problem in our area.</p>
-                     <p>Through our research, we realised that Bangalore has many migrants working as a employee, employers and business man. Many of them are always changing their house and office location once in 2 years. So, during that time, they need a transportation services. Also, Many of them needs Labour services too. So, we started our startup as a transportation and Labour providing company that are helping customers and businesses to do shifting. </p>
-                  <p>Our startup is doing well and we are progressing too. But one of the most important problems we come across is customer acquisition. Packers and movers companies relies on the leads given by big lead providing companies. This middleman thing is making the worst customer experience. Also, according to the time, we have to become digital.
-</p><p>We got our groceries in 10 minutes, why can't we book shifting services in just 10 minutes? So, we started working on Automated system that will verify your service and will give you the appropriate calculation of your service. Along with that, we changed the name of our company into "Greenbay packers".</p>
-<p>Currently, Greenbay packers is active in various parts of Bangalore like Marathahalli, Koramangala, White field, Banashankari, JP Nagar, Electronic City, etc. </p>            
-<p>We are also expanding in other parts of Karnataka like Bangalore Rural, Bangalore Urban, Chitradurga, shimoga, Davanagere, etc. 
+                     <p>Greenbay packers is a coincidental startup that is evolved along with our transportation services. 2021 was the year when we heard of startup funding and entrepreneur success. We are pretty much excited to be a part of this problem solving ecosystem. As a business enthusiasts, we started looking for the problem in our area.</p>
+                     <p>Through our research, we realised that Bangalore has many migrants working as a employee, employers and businessman. Many of them are always changing their house and office location once in 2 years. During that time, they need transportation services. Also, Many of them need Labour services too. So, we started our startup as a transportation and Labour providing company that are helping customers and businesses to do fast shifting. </p>
+                  	<p>Our startup is doing well and we are progressing too. But one of the most important problems we come across is customer acquisition. Packers and movers 	companies relies on the leads given by big lead generation companies. This middleman thing is making the worst customer experience. Also With changing times, we have to become digital.
+					</p>
+					<p>We got our groceries in 10 minutes, why can't we book shifting services in just 10 minutes? So, we started working on Automated system that will verify your service and will give you the appropriate calculation of your service. Along with that, we changed the name of our company into "Greenbay packers".</p>
+					<p>Currently, Greenbay packers is active in various parts of Bangalore like Marathahalli, Koramangala, White field, Banashankari, JP Nagar, Electronic City, etc. </p>            
+					<p>We are also expanding in other parts of Karnataka like Bangalore Rural, Bangalore Urban, Chitradurga, shimoga, Davanagere, etc. 
 
-If you are thinking of shifting from Marathahalli to Koramangala, or From one place to another place in Bangalore,
+					If you are thinking of shifting from Marathahalli to Koramangala, or From one place to another place in Bangalore,
 
-Greenbay packers is the solution of your shifting problems in Bangalore.</p>      </div>
+					Greenbay packers is the solution of your shifting problems in Bangalore.</p>      </div>
                </div>
                <div class="col-md-6 about_img">
                   
