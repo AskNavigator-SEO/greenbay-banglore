@@ -209,7 +209,14 @@
 
 
 					</div>
+					<div class="col-md-6">
 
+
+<div>
+	<h4><span>4.</span> Vehicle Shifting </h4>
+	<p>Our expertise is the shipment of your vehicle from urban or rural remote places to desired locations. We have done thousands of vehicle shifts without getting scratches, cracks, and internal damages. We will start with Vehicle inspection, Proof of Insurance policy, NOC document from the New RTO state, shipment Permission letter from the customer, copy of Legal ownership documents of the vehicle, Manufacturer invoice copy, Pollution certificate copy(PUC), Road Tax copy, driving license and registration certificate. Your Car, Bike, or Scooter will be packed perfectly and shipped quickly. </p>
+</div>
+</div>
 				</div>
 				
 				<div class="clear"></div>
