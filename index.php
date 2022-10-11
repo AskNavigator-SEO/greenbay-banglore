@@ -227,13 +227,20 @@
 						<span>You have read about us and got to know our service offerings. But what made us an obvious choice for your shifting service? Let's find out.</span>
 					</div>
 					<div>
-					<h4><span>1.</span> Warehouse Service</h4>
-							<p>Warehouse service is a sizable factory-size storage facility. It is majorly used by our wholesalers, exporters, importers, factories, manufacturers, and customs. You can store large quantities of machinery or mansion goods for some days. For long route shifting, packers and movers use Warehouse services to shift your household or office goods. You can avail of this service for a new location if you have difficulty finding a new house. For long distance shifting, it is included in the service quotation agreement. </p>
-						
+					<h4><span>1.</span>10 Minutes Service Hiring</h4>
+					<p>Hiring a good packer and mover is a more extended task. You check their credibility and Prices for days. Greenbay packers have created an automated booking system that will provide the required reliable documents of our credibility and shifting charges calculation in just 10 minutes. </p>
+					<h4><span>2.</span>Affordable Service and No Hidden Charges</h4>
+					<p>Greenbay packers have very affordable shifting services. We only charge for required services and don't have hidden charges in our quotation. Many packers and movers hide warehouse service charges, GST, and insurance charges to attract customers on low initial charges. </p>
+					<h4><span>3.</span>Fast Moving Service</h4>
+					<p>A Traffic prone city like Bangalore needs to have faster delivery solutions. Greenbay packers have mastered that instant delivery. We have our timing and routes to get quick moving service. You will have household goods in your desired location even before traffic is resolved. </p>
+					<h4><span>4.</span>Well Experienced Manpower</h4>
+					<p>Household goods are delicate and expensive. They need proper care and understanding of their breaking points. Any loss and damage can cause more expenses for you. It would help if you had well-experienced Manpower to handle your household goods carefully. Greenbay packers have trained Manpower to complete the household shifting with proper care.  </p>
+						<!--- change
 						<p><span style="color: #325EED; font-size:18px;">1.Transportaion</span> <br>They provide the quick delivery of goods to the customers, as a bonus they provide fast rapid emergency moving service to the customers and give assurance to deliver the interest safely and securely.</p>
 						<p><span style="color: #325EED; font-size:18px;">2.</span>Choosing the top packers and movers in Bangalore made you hassle-free because they are excellent in this field.</p>
 						<p><span style="color: #325EED; font-size:18px;">3.</span> When you hire a moving company, you are always very about your goods whether it is in safe hands or not but with greenway packers, you don't need to worry about this because they are very professional and peaceful. </p>
 						<p><span style="color: #325EED; font-size:18px;">4.</span> Greenbay provides you with an insurance policy because if some incident happens like an accident while shifting your goods so you may suffer financial damages, but because of the insurance, you can easily claim your money. This quality makes you stressed-free. So it is a very safe and convenient option to choose Greenbay, the best packers and movers in Bangalore. </p>
+					--->
 					</div>
 
 					
