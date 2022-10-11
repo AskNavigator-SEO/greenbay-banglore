@@ -180,15 +180,15 @@
 					</div>
 					<div class="col-md-6 ">
 						<div>
-							<h4><span>2.</span> Out-of-city shifting</h4>
-							<p>The best packing and moving service in Bangalore shifts your cargo from outside the city, and also they provide the facility of the world by transportation. Because Greenbay packers movers are a combination of the multi-transport system, well-trained team members, use best quality packing material, because of these three qualities it makes them best and trustworthy and because of the trust people can easily believe on their service whether it is on short term distance or long term distance.</p>
+							<h4><span>2.</span> Interstate House Shifting</h4>
+							<p>Greenbay packers have an extensive network of Interstate route points for house shifting. Our world-class service comes with multiple facilities for delivery. We offer Cargo transportation, Strong packing materials for packing, a Systematic warehouse facility, Well-trained human resources, and a Legal quotation agreement. Interstate shifting is a long distance delivery. So, it is advisable and necessary to take insurance to get compensation for your goods against any loss or damage. </p>
 						</div>
 
 					</div>
 					<div class="col-md-6 ">
 						<div>
-							<h4><span>3.</span> Transportation </h4>
-							<p> As we discussed above, they are concluded the best packers and movers in Bangalore so they can provide you with air and train transport service. Also, they can transfer your vehicles from one place to another very quickly.</p>
+							<h4><span>3.</span> Office Shifting </h4>
+							<p> Office shifting is a delicate task. You must be careful while packing and delivering heavy machinery and costly hardware. The office shifting includes Office Survey, On-site estimation, Disassembling electronic appliances and heavy machinery, High-quality packing materials for packing, Machinery arrangements and allocation, Well organized Manpower, Multi transportation facilities, and Fastest delivery. Co-working offices, Mills, Factories, Shops, Plazas, Etc., are some of the categories for office shifting. </p>
 						</div>
 					</div>
 
@@ -196,15 +196,15 @@
 
 
 						<div>
-							<h4><span>4.</span> Warehouse service </h4>
-							<p>The packers and movers in Bangalore provide their customers with warehouse service in which they can store the goods, vehicles, and anything in their house for the long and short term period. Keep me safe in the warehouse on your goods and items, which means you don't have to worry about your interests.</p>
+							<h4><span>4.</span> Vehicle Shifting </h4>
+							<p>Our expertise is the shipment of your vehicle from urban or rural remote places to desired locations. We have done thousands of vehicle shifts without getting scratches, cracks, and internal damages. We will start with Vehicle inspection, Proof of Insurance policy, NOC document from the New RTO state, shipment Permission letter from the customer, copy of Legal ownership documents of the vehicle, Manufacturer invoice copy, Pollution certificate copy(PUC), Road Tax copy, driving license and registration certificate. Your Car, Bike, or Scooter will be packed perfectly and shipped quickly. </p>
 						</div>
 					</div>
 					<div class="col-md-6">
 
 						<div>
-							<h4><span>5.</span> Pre-moving survey</h4>
-							<p>Learning about your needs and planning makes the work easy and can be done according to the customer's expectations. Show the best packers and movers took a step forward with the pre-moving survey. They take the measurement and other necessary information related to the transportation, needs, scheduled date and time, etc.</p>
+							<h4><span>5.</span> Warehouse Service</h4>
+							<p>Warehouse service is a sizable factory-size storage facility. It is majorly used by our wholesalers, exporters, importers, factories, manufacturers, and customs. You can store large quantities of machinery or mansion goods for some days. For long route shifting, packers and movers use Warehouse services to shift your household or office goods. You can avail of this service for a new location if you have difficulty finding a new house. For long distance shifting, it is included in the service quotation agreement. </p>
 						</div>
 
 
