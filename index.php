@@ -227,6 +227,9 @@
 						<span>You have read about us and got to know our service offerings. But what made us an obvious choice for your shifting service? Let's find out.</span>
 					</div>
 					<div>
+					<h4><span>1.</span> Warehouse Service</h4>
+							<p>Warehouse service is a sizable factory-size storage facility. It is majorly used by our wholesalers, exporters, importers, factories, manufacturers, and customs. You can store large quantities of machinery or mansion goods for some days. For long route shifting, packers and movers use Warehouse services to shift your household or office goods. You can avail of this service for a new location if you have difficulty finding a new house. For long distance shifting, it is included in the service quotation agreement. </p>
+						
 						<p><span style="color: #325EED; font-size:18px;">1.Transportaion</span> <br>They provide the quick delivery of goods to the customers, as a bonus they provide fast rapid emergency moving service to the customers and give assurance to deliver the interest safely and securely.</p>
 						<p><span style="color: #325EED; font-size:18px;">2.</span>Choosing the top packers and movers in Bangalore made you hassle-free because they are excellent in this field.</p>
 						<p><span style="color: #325EED; font-size:18px;">3.</span> When you hire a moving company, you are always very about your goods whether it is in safe hands or not but with greenway packers, you don't need to worry about this because they are very professional and peaceful. </p>
