@@ -166,30 +166,17 @@
 				<p style="font-size: 18px;font-weight: 300; ">But do these claims match up to reality?<strong>Bangalore is a Lovely city.</strong> A city full of ancient culture and historical significance is growing daily. Its green surroundings, attractive streets, and tall buildings attract every opportunist. Being the most prominent startup ecosystem and IT economic zones for decades, it would be unfortunate to get slow shifting delivery in Bangalore. Bangalore is known for solving problems for India through Smart business solutions. Worst customer support and slow delivery can make it look like a disaster for the city. Greenbay Packers are making a solid effort to become problem solvers in Bangalore.</p>
 				<p style="font-size: 18px;font-weight: 300; ">If you are familiar with Bangalore traffic, you know it will take a week to reach home. Till then, many startups will open in the streets, and your Weekend will start (Hahaha, just kidding.) But don't worry, Green Bay packers will ensure that your Weekend doesn't get ruined while shifting. Our responsibility will be to take care of your household or office goods. Even before traffic arrives in Bangalore, we will quickly deliver your household goods to your new house. Our Fast Moving and affordable service make us an obvious choice for every Bangalorean. Neither has to worry about high costs or slow delivery. We have covered all the problems and made fantastic offers for you.</p>
 				<p style="font-size: 18px;font-weight: 300; ">But what do we actually provide in our offers? Why should you choose us? What makes us different from others? Keep reading to know us more. Trust is the most important asset for us. That's how the world works.</p>				
-				<h3 style="text-align: center;">Services provide by Greenbay Packers</h3>
+				<h3 style="text-align: center;">Services by Greenbay Packers</h3>
 				<p style="font-size: 18px;font-weight: 300; text-align:center; ">Greenbay moving and packing service in Bangalore provide the service like:</p>
 
 				<div class="row col-mb-50 mt-3">
 
 					<div class="col-md-6 ">
 
-
-
 						<div>
-							<h4><span>1.</span> Local shifting</h4>
-							<p>It is not easy to shift the goods from one place to another within the city. People who think they are entirely wrong because this short distance and a long-distance move are the same. Still, the only difference is traveling. In local shifting, they also load and unload the goods, correctly take care of breakable items, etc. everything they do is safe and secure.</p>
-						</div>
-
-
-
-
-
-
-
-
-
-
-
+							<h4><span>1.</span> Local House Shifting </h4>
+							<p>Local house shifting consists of the relocation of your household goods within Bangalore. This service includes a Pre-moving survey, Well-experienced Manpower, Transportation, Packing service, and Quick delivery. Insurance is an optional choice since it is a local shifting service. We shift various houses, such as Apartments, Mansions, Urban towns, Street houses, etc. </p>					
+							</div>
 					</div>
 					<div class="col-md-6 ">
 						<div>
