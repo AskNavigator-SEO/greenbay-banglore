@@ -213,8 +213,8 @@
 
 
 <div>
-	<h4><span>4.</span> Vehicle Shifting </h4>
-	<p>Our expertise is the shipment of your vehicle from urban or rural remote places to desired locations. We have done thousands of vehicle shifts without getting scratches, cracks, and internal damages. We will start with Vehicle inspection, Proof of Insurance policy, NOC document from the New RTO state, shipment Permission letter from the customer, copy of Legal ownership documents of the vehicle, Manufacturer invoice copy, Pollution certificate copy(PUC), Road Tax copy, driving license and registration certificate. Your Car, Bike, or Scooter will be packed perfectly and shipped quickly. </p>
+	<h4><span>6.</span> Transportation </h4>
+	<p>Suppose you have done self packing of your household goods and need only transportation. We are offering this exclusive service with no extra charges. You can hire or rent our transportation truck and driver for some time. We are famous for our fast delivery. It will charge less for transportation in comparison to a full Shifting service. Of course, you have to load and unload your goods unless you pay extra for Manpower. This transportation only service will reduce your overall shifting cost by 50%.</p>
 </div>
 </div>
 				</div>
@@ -227,7 +227,7 @@
 						<span>There are several reasons to choose the Greenbaypackers and movers in Bangalore </span>
 					</div>
 					<div>
-						<p><span style="color: #325EED; font-size:18px;">1.</span> They provide the quick delivery of goods to the customers, as a bonus they provide fast rapid emergency moving service to the customers and give assurance to deliver the interest safely and securely.</p>
+						<p><span style="color: #325EED; font-size:18px;">1.Transportaion</span> <br>They provide the quick delivery of goods to the customers, as a bonus they provide fast rapid emergency moving service to the customers and give assurance to deliver the interest safely and securely.</p>
 						<p><span style="color: #325EED; font-size:18px;">2.</span>Choosing the top packers and movers in Bangalore made you hassle-free because they are excellent in this field.</p>
 						<p><span style="color: #325EED; font-size:18px;">3.</span> When you hire a moving company, you are always very about your goods whether it is in safe hands or not but with greenway packers, you don't need to worry about this because they are very professional and peaceful. </p>
 						<p><span style="color: #325EED; font-size:18px;">4.</span> Greenbay provides you with an insurance policy because if some incident happens like an accident while shifting your goods so you may suffer financial damages, but because of the insurance, you can easily claim your money. This quality makes you stressed-free. So it is a very safe and convenient option to choose Greenbay, the best packers and movers in Bangalore. </p>
