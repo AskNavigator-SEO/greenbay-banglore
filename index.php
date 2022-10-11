@@ -223,8 +223,8 @@
 
 				<div class="container topmargin bottommargin-lg">
 					<div class="heading-block center mx-auto" style="max-width: 700px">
-						<h2 class="mb-2 nott ls0">Why You Choose Us?</h2>
-						<span>There are several reasons to choose the Greenbaypackers and movers in Bangalore </span>
+						<h3 class="mb-2 nott ls0">Why Should You choose us? </h3>
+						<span>You have read about us and got to know our service offerings. But what made us an obvious choice for your shifting service? Let's find out.</span>
 					</div>
 					<div>
 						<p><span style="color: #325EED; font-size:18px;">1.Transportaion</span> <br>They provide the quick delivery of goods to the customers, as a bonus they provide fast rapid emergency moving service to the customers and give assurance to deliver the interest safely and securely.</p>
