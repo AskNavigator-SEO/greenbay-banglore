@@ -1,6 +1,7 @@
         RewriteEngine On
-        RewriteCond %{HTTPS} off
-        RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+        RewriteBase /
+        RewriteCond %{HTTP_HOST} ^www.greenbaypackerslockerroom.com/
+        RewriteRule ^(.*)$ https://greenbaypackerslockerroom.com/$1 [R=301,L]
 
         ErrorDocument 404 https://greenbaypackerslockerroom.com/
         Options All -Indexes
